@@ -12,5 +12,11 @@ If you click on an image you can see other details (likes, scores, dislikes and 
 
 Page is also responsive. 
 
+# IMPORTANT NOTE:
+  On App.js line 46 add your api key inside the "Bearer " 
+  
+  Example: myHeaders.append("Authorization", "Bearer df0f83d526c5352587af71c55c88f1ef4a4f860d");
+
+
 https://user-images.githubusercontent.com/72764899/183986955-897ef1ea-ac62-44cd-8a64-8e9b4e7eec33.mp4
 
